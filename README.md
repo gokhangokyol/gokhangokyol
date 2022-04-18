@@ -9,5 +9,4 @@ Ben ve benim gibi bir çok troia tarafında etkin kod geliştirmesi yapmış ark
 örneklerimizi arttırabilir ve geliştirebiliriz.
 
 Hazırlayan ve Katkıda Bulunanlar:
-Gökhan Gökyol
-Neslihan Pala
+Gökhan Gökyol, Neslihan Pala
